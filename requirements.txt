@@ -1,0 +1,4 @@
+pydantic>=2.6
+fastapi>=0.110      # only for api.py
+uvicorn>=0.29       # only for api.py
+pytest>=8           # only for tests
